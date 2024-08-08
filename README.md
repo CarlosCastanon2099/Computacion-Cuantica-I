@@ -15,7 +15,7 @@ Curso Completo de Computacion Cuantica I 2025-1
 
 Prácticas y tareas realizadas durante el curso de Computacion Cuantica I.
 
-[![](https://i.makeagif.com/media/7-10-2016/C4KvrW.gif)](https://www.youtube.com/watch?v=YVkUvmDQ3HY)
+[![](https://i.makeagif.com/media/7-10-2016/C4KvrW.gif)](https://www.youtube.com/watch?v=Ijk4j-r7qPA)
 
 
 
